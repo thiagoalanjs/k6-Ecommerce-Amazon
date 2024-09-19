@@ -2,7 +2,8 @@
 
 Esse repositório tem como objetivo exemplificar um teste de carga com k6 no ecommerce da Amazon
 
-![image](https://github.com/user-attachments/assets/681c9d9b-4f74-419c-abfd-712498cc7ca3)
+![image](https://github.com/user-attachments/assets/05451ba2-6bbd-4b3a-a564-36e7d87cc3fe)
+
 
 ## Instalação do K6
 
@@ -20,11 +21,13 @@ $ npm install -g har-to-k6
 
 $ k6 run -o influxdb=http://localhost:8086/amazon_test nome_script.js 
 
-![image](https://github.com/user-attachments/assets/440b129b-076f-478f-b932-04378ab19747)
+![image](https://github.com/user-attachments/assets/f153bdb4-3d4b-45c3-910f-150b8a148e17)
+
 
 
 ## Resultado
 
-![image](https://github.com/user-attachments/assets/587c2f8b-23f5-4996-b5db-e6e5ff911dfd)
+![image](https://github.com/user-attachments/assets/bf06170c-be6c-478c-a56a-912537208e7b)
+
 
 
